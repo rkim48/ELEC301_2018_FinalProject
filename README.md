@@ -1,5 +1,5 @@
 # ELEC301_2018_FinalProject
-I created a Google Colab notebook that would help students get started on the 2018 Rice ELEC 301 final project. Unfortunately, Github will not display the .ipynb notebook for some reason and so the link below should lead you straight to the Google Colab notebook. 
+I created a Google Colab notebook that would help students get started on the 2018 Rice ELEC 301 final project. The link to the Google Colab notebook is below. 
 
 The final project task is to classify a movie poster as one of four classes: action and/or adventure, romance and/or comedy, drama and/or crime, and biography and/or documentary. 
 
